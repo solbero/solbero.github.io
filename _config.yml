@@ -19,6 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Njord A. Solberg
+tagline: "Python programmer and digitalization specialist"
 logo: "/assets/img/portrait.png?raw=true"
 email: njosol@pm.me
 description: >- # this means to ignore newlines until "baseurl:"
@@ -30,7 +31,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   <br/>
   <a href="https://www.linkedin.com/in/solbero"><i class="fa-brands fa-linkedin"></i>&nbsp;View my LinkedIn profile</a>
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://solbero.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: solbero/solbero.github.io
 
 # Build settings
