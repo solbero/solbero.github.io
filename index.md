@@ -4,7 +4,7 @@ page: default
 
 <div align="center"><a href="https://github.com/solbero/ignoro"><img src="assets/img/ignoro.png" alt="Ignoro"/></a></div>
 
-[Ignoro](https://github.com/solbero/ignoro) is a CLI application I designed to help me quickly create and modify .gitignore files for my software projects. This was the first project where I used [Typer](https://typer.tiangolo.com/) for creating the CLI in Python.
+[Ignoro](https://github.com/solbero/ignoro) is a CLI application I designed to help me and others quickly create and modify .gitignore files for our software projects. This was the first project where I used [Typer](https://typer.tiangolo.com/) for creating the CLI in Python.
 
 ---
 
@@ -21,7 +21,7 @@ page: default
 ---
 
 <div align="center"><a href="https://github.com/solbero/hexpex"><img src="assets/img/hexpex.png" alt="Hexpex"/></a></div>
-[Hexpex](https://github.com/solbero/hexpex) is a type-hinted, object-oriented library I created for working with hexagonal grids in Python. The plan was to use this library in [one of my other projects](https://github.com/solbero/ti4-mapmaker-api), but unfortunately that project stalled. Hexpex was also the first project where I published a package to [PyPI](https://pypi.org/).
+[Hexpex](https://github.com/solbero/hexpex) is a type-hinted, object-oriented library I created for working with hexagonal grids in Python. The plan was to use this library in [one of my other projects](https://github.com/solbero/ti4-mapmaker-api), but unfortunately that project stalled. Hexpex was also the first project I published to [PyPI](https://pypi.org/).
 
 ---
 
