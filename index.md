@@ -2,6 +2,12 @@
 page: default
 ---
 
+<div align="center"><a href="https://github.com/solbero/social-insecurity"><img src="assets/img/dracula.png" alt="Social Insecurity"/></a></div>
+
+[Dracula](https://draculatheme.com/) is my favorite color theme and I use it for most of my applications. However, two applications I use frequently were missing themes. Therefore I created, submitted and maintain the theme for [GtkSourceView](https://draculatheme.com/gtksourceview) and [OpenSCAD](https://draculatheme.com/openscad).
+
+---
+
 <div align="center"><a href="https://github.com/solbero/social-insecurity"><img src="assets/img/social-insecurity.png" alt="Social Insecurity"/></a></div>
 
 [Social Insecurity](https://github.com/solbero/social-insecurity) is a web application I maintain for the course [Information and Software Security](https://www.uis.no/en/course/DAT250_1) at the University of Stavanger. The application contains numerous security vulnerabilities, and the students are tasked with finding and fixing them.
