@@ -19,11 +19,11 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Njord A. Solberg
-tagline: "Python programmer and digitalization specialist"
+tagline: "Fullstack programmer and digitalization specialist"
 logo: "/assets/img/portrait.png?raw=true"
 email: njosol@pm.me
 description: >- # this means to ignore newlines until "baseurl:"
-  Python programmer and digitalization specialist who can help you untangle your digital nest of vipers.
+  Fullstack programmer and digitalization specialist who can help you untangle your digital spaghetti.
   <br><br>
   <a href="mailto:njosol@pm.me"><i class="fa-solid fa-envelope"></i>&nbsp;Send me an email</a>
   <br/>
