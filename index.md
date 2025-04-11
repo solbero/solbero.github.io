@@ -2,6 +2,12 @@
 page: default
 ---
 
+<div align="center"><a href="https://www.kodespraket.no"><img src="assets/img/kodespraket.webp" alt="Kodespråket"/></a></div>
+
+[Kodespråket](https://www.kodespraket.no) is my personal blog where I share my thoughts on language, informatics and everything in between. I find the way language shapes and influences the way we reason about abstract concepts such as programming languages, algorithms and computers to ba a facinating.
+
+---
+
 <div align="center"><a href="https://github.com/solbero/social-insecurity"><img src="assets/img/dracula.png" alt="Social Insecurity"/></a></div>
 
 [Dracula](https://draculatheme.com/) is my favorite color theme and I use it for most of my applications. However, two applications I use frequently were missing themes. Therefore I created, submitted and am maintaining the theme for [GtkSourceView](https://draculatheme.com/gtksourceview) and [OpenSCAD](https://draculatheme.com/openscad).
