@@ -4,7 +4,7 @@ page: default
 
 <div align="center"><a href="https://github.com/solbero/social-insecurity"><img src="assets/img/dracula.png" alt="Social Insecurity"/></a></div>
 
-[Dracula](https://draculatheme.com/) is my favorite color theme and I use it for most of my applications. However, two applications I use frequently were missing themes. Therefore I created, submitted and maintain the theme for [GtkSourceView](https://draculatheme.com/gtksourceview) and [OpenSCAD](https://draculatheme.com/openscad).
+[Dracula](https://draculatheme.com/) is my favorite color theme and I use it for most of my applications. However, two applications I use frequently were missing themes. Therefore I created, submitted and am maintaining the theme for [GtkSourceView](https://draculatheme.com/gtksourceview) and [OpenSCAD](https://draculatheme.com/openscad).
 
 ---
 
