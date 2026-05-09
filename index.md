@@ -4,7 +4,7 @@ page: default
 
 <div align="center"><a href="https://www.kodespraket.no"><img src="assets/img/kodespraket.webp" alt="Kodespråket"/></a></div>
 
-[Kodespråket](https://www.kodespraket.no) is my personal blog where I share my thoughts on language, informatics and everything in between. I find the way language shapes and influences the way we reason about abstract concepts such as programming languages, algorithms and computers to ba a facinating.
+[Kodespråket](https://www.kodespraket.no) is my personal blog where I share my thoughts on language, informatics and everything in between. I find the way language shapes and influences the way we reason about abstract concepts such as programming languages, algorithms and computers to be a facinating topic.
 
 ---
 
